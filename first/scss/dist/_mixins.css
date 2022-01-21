@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@1,100&family=Bad+Script&family=Cinzel+Decorative&family=Farsan&display=swap");
+/*colour variables */
+/* use files */
+/* local variables*/
+/* screen sizing */
+/* div formatting */
+/* Buttons */
+@media (min-width: 40em) {
+  .split {
+    display: flex;
+    gap: 2em;
+  }
+}

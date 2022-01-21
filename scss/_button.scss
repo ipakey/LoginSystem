@@ -1,0 +1,86 @@
+/* use files */
+@use 'colors';
+@use 'mixins';
+@use 'fonts';
+
+/* Button Variables */
+
+$btn-padding: .2rem .4rem;
+$btn-margin: .3rem;
+$btn-border-radius: 1rem;
+$btn-font-size: 0.8rem;
+$btn-font-color: colors.$text-color;
+$btn-font-bg: colors.$card-bg;
+$btn-backgr: colors.$logIn-bg;
+$btn-font: fonts.$BS;
+
+$btn-types: "input" "submit";
+
+@mixin btn-reset(){
+    // display
+    display: inline-block;
+    //height width margin padding
+    padding: $btn-padding;
+    //margin:$btn-margin;
+    border-radius: 0;
+    background-color: $btn-backgr;
+    text-align: center;
+    text-decoration: none;
+    font-size: $btn-font-size;
+    color: $btn-font-color;
+    //other
+    cursor: pointer;
+    
+}
+
+
+@mixin btn{
+    @include btn-reset;
+    width: 45%;
+    border: 3pt solid $btn-backgr;
+    font-family: $btn-font;
+    min-width: 210px;
+    z-index: 3;
+    margin: 2px 8px;
+
+    text-decoration: none;
+    position: relative;
+  }
+
+  .btn{
+    @include btn;
+    width: fit-content;
+    background-color: $btn-backgr;
+
+  }
+
+.btn-s2{
+    @include btn;
+}
+
+.btn-s2::after,
+.btn-s2::before {
+  border: 3px solid $btn-font-bg;
+  content: "";
+  position: absolute;
+  width: calc(100% - 2px);
+  height: calc(100% - 2px);
+  left: 0;
+  bottom: 0;
+  z-index: -1;
+  transition: transform 0.3s ease;
+}
+
+.btn-s2:hover {
+  transform: translate(0px, 2px);
+  border: 3px solid $btn-font-color;
+  background-color: $btn-backgr;
+}
+
+.btn-s2:hover::after{
+  transform: translate(2px, 2px);
+}
+
+.btn-s2:hover::after{
+  transform: translate(4px, 4px);
+}

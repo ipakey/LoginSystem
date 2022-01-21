@@ -1,0 +1,128 @@
+Sessions available for: Wed 23 Jun 2021
+array(7) { [0]=> string(6) "3-6 pm" [4]=> string(14) "19:30-20:00 PM" [5]=> string(14) "18:30-19:00 PM" [7]=> string(6) "7-9 am" [8]=> string(6) "8-9 am" [10]=> string(14) "18:00-18:30 PM" [11]=> string(14) "20:00-20:30 PM" } 
+3-6 pm $sl
+3-6 pm sl 3-6 pm sla 0 lts 
+3-6 pm sl 3-6 pm sla 0 lts 
+3-6 pm sl 3-6 pm sla 0 lts 
+3-6 pm sl 3-6 pm sla 0 lts 
+19:30-20:00 PM $sl19:30-20:00 PM sl 19:30-20:00 PM sla 0 lts 
+19:30-20:00 PM sl 19:30-20:00 PM sla 0 lts 
+18:30-19:00 PM $sl18:30-19:00 PM sl 18:30-19:00 PM sla 0 lts 
+7-9 am $sl7-9 am sl 7-9 am sla 0 lts 
+7-9 am sl 7-9 am sla 0 lts 
+8-9 am $sl8-9 am sl 8-9 am sla 0 lts 
+18:00-18:30 PM $sl18:00-18:30 PM sl 18:00-18:30 PM sla 0 lts 
+20:00-20:30 PM $sl20:00-20:30 PM sl 20:00-20:30 PM sla 0 lts 
+
+
+array(7) { [0]=> array(2) { [0]=> string(6) "3-6 pm" [1]=> int(0) } [1]=> array(4) { [0]=> string(6) "3-6 pm" [1]=> int(0) [2]=> string(14) "19:30-20:00 PM" [3]=> int(0) } [2]=> array(6) { [0]=> string(6) "3-6 pm" [1]=> int(0) [2]=> string(14) "19:30-20:00 PM" [3]=> int(0) [4]=> string(14) "18:30-19:00 PM" [5]=> int(0) } [3]=> array(8) { [0]=> string(6) "3-6 pm" [1]=> int(0) [2]=> string(14) "19:30-20:00 PM" [3]=> int(0) [4]=> string(14) "18:30-19:00 PM" [5]=> int(0) [6]=> string(6) "7-9 am" [7]=> int(0) } [4]=> array(10) { [0]=> string(6) "3-6 pm" [1]=> int(0) [2]=> string(14) "19:30-20:00 PM" [3]=> int(0) [4]=> string(14) "18:30-19:00 PM" [5]=> int(0) [6]=> string(6) "7-9 am" [7]=> int(0) [8]=> string(6) "8-9 am" [9]=> int(0) } [5]=> array(12) { [0]=> string(6) "3-6 pm" [1]=> int(0) [2]=> string(14) "19:30-20:00 PM" [3]=> int(0) [4]=> string(14) "18:30-19:00 PM" [5]=> int(0) [6]=> string(6) "7-9 am" [7]=> int(0) [8]=> string(6) "8-9 am" [9]=> int(0) [10]=> string(14) "18:00-18:30 PM" [11]=> int(0) } [6]=> array(14) { [0]=> string(6) "3-6 pm" [1]=> int(0) [2]=> string(14) "19:30-20:00 PM" [3]=> int(0) [4]=> string(14) "18:30-19:00 PM" [5]=> int(0) [6]=> string(6) "7-9 am" [7]=> int(0) [8]=> string(6) "8-9 am" [9]=> int(0) [10]=> string(14) "18:00-18:30 PM" [11]=> int(0) [12]=> string(14) "20:00-20:30 PM" [13]=> int(0) } }
+
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 271
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 295
+Childcare sessions available today:
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 387
+
+Warning: Undefined variable $groups in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 347
+NULL groups
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 348
+
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 380
+7-9 am
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 387
+
+Warning: Undefined variable $groups in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 347
+NULL groups
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 348
+
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 380
+8-9 am
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 387
+
+Warning: Undefined variable $groups in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 347
+NULL groups
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 348
+
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 380
+3-4 pm
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 387
+
+Warning: Undefined variable $groups in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 347
+NULL groups
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 348
+
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 380
+3-5 pm
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 387
+
+Warning: Undefined variable $groups in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 347
+NULL groups
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 348
+
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 380
+3-6 pm
+The Den Tutoring has these sessions available today:
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 387
+
+Warning: Undefined variable $groups in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 347
+NULL groups
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 348
+
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 380
+18:00-18:30 PM
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 387
+
+Warning: Undefined variable $groups in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 347
+NULL groups
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 348
+
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 380
+18:30-19:00 PM
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 387
+
+Warning: Undefined variable $groups in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 347
+NULL groups
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 348
+
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 380
+19:00-19:30 PM
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 387
+
+Warning: Undefined variable $groups in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 347
+NULL groups
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 348
+
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 380
+19:30-20:00 PM
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 387
+
+Warning: Undefined variable $groups in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 347
+NULL groups
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 348
+
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 380
+20:00-20:30 PM
+
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 387
+
+Warning: Undefined variable $groups in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 347
+NULL groups
+Warning: foreach() argument must be of type array|object, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 348
+
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 380
+20:30-21:00 PM
+
+
+
+Return to Calendar

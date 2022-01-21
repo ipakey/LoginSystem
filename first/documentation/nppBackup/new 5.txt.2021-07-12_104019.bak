@@ -1,0 +1,25 @@
+You have selected : wk
+
+array(8) { 
+	[0]=> string(10) "2021-07-12" [1]=> string(10) "2021-07-13" [2]=> string(10) "2021-07-14" [3]=> string(10) "2021-07-15" [4]=> string(10) "2021-07-16" [5]=> string(10) "2021-07-17" [6]=> string(10) "2021-07-18" [7]=> string(10) "2021-07-19" 
+} $dates 
+
+array(8) { 
+	[0]=> string(10) "2021-07-12" [1]=> string(10) "2021-07-13" [2]=> string(10) "2021-07-14" [3]=> string(10) "2021-07-15" [4]=> string(10) "2021-07-16" [5]=> string(10) "2021-07-17" [6]=> string(10) "2021-07-18" [7]=> string(10) "2021-07-19" 
+} $dates at L605
+
+22 User 
+
+2021-07-12 
+
+array(0) { } $bkd L630
+
+Warning: Array to string conversion in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 612
+
+Array Fatal error: Uncaught TypeError: array_push(): 
+	Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php:613 
+	
+	Stack trace: 
+		#0 C:\xampp\htdocs\TheDen\includes\functionsBooking.php(613): array_push(NULL, Array) 
+		#1 C:\xampp\htdocs\TheDen\contentPrivate\bookingsReview.php(59): findBookingsReport(Array, 22) 
+		#2 {main} thrown in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 613

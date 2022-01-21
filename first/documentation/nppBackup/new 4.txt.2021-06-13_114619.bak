@@ -1,0 +1,87 @@
+Sessions available for: Wed 23 Jun 2021
+array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) } book 
+
+array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } book 
+
+array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } 
+
+book array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } book 
+
+array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } book 
+
+array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } book 
+
+array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } book 
+
+array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } book 
+
+array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } book 
+
+array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } book 
+
+array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } book 
+
+array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } book 
+
+array(0) { } array(1) { [0]=> array(0) { } } slot uslotarray(0) { } array(0) { } $count $cntarray(0) { }
+Childcare sessions available today:
+
+Warning: Undefined array key 0 in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 372
+
+Warning: Undefined array key "$ts" in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 373
+slotstatus 7-9 am
+
+Warning: Undefined array key 0 in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 372
+
+Warning: Undefined array key "$ts" in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 373
+slotstatus 8-9 am
+
+Warning: Undefined array key 0 in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 372
+
+Warning: Undefined array key "$ts" in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 373
+slotstatus 3-4 pm
+
+Warning: Undefined array key 0 in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 372
+
+Warning: Undefined array key "$ts" in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 373
+slotstatus 3-5 pm
+
+Warning: Undefined array key 0 in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 372
+
+Warning: Undefined array key "$ts" in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 373
+slotstatus 3-6 pm
+The Den Tutoring has these sessions available today:
+
+Warning: Undefined array key 0 in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 372
+
+Warning: Undefined array key "$ts" in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 373
+slotstatus 18:00-18:30 PM
+
+Warning: Undefined array key 0 in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 372
+
+Warning: Undefined array key "$ts" in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 373
+slotstatus 18:30-19:00 PM
+
+Warning: Undefined array key 0 in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 372
+
+Warning: Undefined array key "$ts" in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 373
+slotstatus 19:00-19:30 PM
+
+Warning: Undefined array key 0 in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 372
+
+Warning: Undefined array key "$ts" in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 373
+slotstatus 19:30-20:00 PM
+
+Warning: Undefined array key 0 in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 372
+
+Warning: Undefined array key "$ts" in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 373
+slotstatus 20:00-20:30 PM
+
+Warning: Undefined array key 0 in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 372
+
+Warning: Undefined array key "$ts" in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 373
+slotstatus 20:30-21:00 PM
+
+
+
+Return to Calendar

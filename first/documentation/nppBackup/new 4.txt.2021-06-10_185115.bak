@@ -1,0 +1,61 @@
+Sessions available for: Wed 23 Jun 2021
+array(8) { 
+[0]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(6) "3-6 pm" [2]=> string(9) "Childcare" [3]=> int(4) [4]=> string(1) "N" } 
+[1]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(6) "3-6 pm" [2]=> string(9) "Childcare" [3]=> int(4) [4]=> string(1) "N" } 
+[2]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(6) "3-6 pm" [2]=> string(9) "Childcare" [3]=> int(4) [4]=> string(1) "N" } 
+[3]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(6) "3-6 pm" [2]=> string(9) "Childcare" [3]=> int(4) [4]=> string(1) "N" } 
+[4]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(17) "19:30PM - 20:00PM" [2]=> string(9) "Chemistry" [3]=> int(2) [4]=> string(1) "N" } 
+[5]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(17) "19:30PM - 20:00PM" [2]=> string(9) "Chemistry" [3]=> int(2) [4]=> string(1) "N" } 
+[6]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(6) "7-9 am" [2]=> string(9) "Childcare" [3]=> int(1) [4]=> string(1) "N" } 
+[7]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(6) "8-9 am" [2]=> string(9) "Childcare" [3]=> int(1) [4]=> string(1) "N" } } 
+
+
+array(0) { } array(0) { } subjects Results:string:<-
+
+Sessions available for: Wed 23 Jun 2021
+array(8) { 
+	[0]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(6) "3-6 pm" [2]=> string(9) "Childcare" [3]=> int(4) [4]=> string(1) "N" } 
+	[1]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(6) "3-6 pm" [2]=> string(9) "Childcare" [3]=> int(4) [4]=> string(1) "N" } 
+	[2]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(6) "3-6 pm" [2]=> string(9) "Childcare" [3]=> int(4) [4]=> string(1) "N" } 
+	[3]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(6) "3-6 pm" [2]=> string(9) "Childcare" [3]=> int(4) [4]=> string(1) "N" } 
+	[4]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(17) "19:30PM - 20:00PM" [2]=> string(9) "Chemistry" [3]=> int(2) [4]=> string(1) "N" } 
+	[5]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(17) "19:30PM - 20:00PM" [2]=> string(9) "Chemistry" [3]=> int(2) [4]=> string(1) "N" } 
+	[6]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(6) "7-9 am" [2]=> string(9) "Childcare" [3]=> int(1) [4]=> string(1) "N" } 
+	[7]=> array(5) { [0]=> string(10) "2021-06-23" [1]=> string(6) "8-9 am" [2]=> string(9) "Childcare" [3]=> int(1) [4]=> string(1) "N" } } 
+	
+array(9) { 
+	[0]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) } [1]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } [2]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } [3]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } [4]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(17) "19:30PM - 20:00PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } [5]=> array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(17) "18:30PM - 19:00PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } [6]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(17) "19:30PM - 20:00PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } [7]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } [8]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } } $groups in bookingForm L.57 <-- array(0) { } array(0) { } subjects Results:string:<-
+Childcare sessions available today:
+array(0) { } array(0) { } subjects Results:string:<- 7-9 am
+ array(0) { } array(0) { } subjects Results:string:<- 8-9 am
+ array(0) { } array(0) { } subjects Results:string:<- 3-4 pm
+ array(0) { } array(0) { } subjects Results:string:<- 3-5 pm
+ array(0) { } array(0) { } subjects Results:string:<- 3-6 pm
+The Den Tutoring has these sessions available today:
+array(0) { } array(0) { } subjects Results:string:<- 18:00-18:30 PM
+ array(0) { } array(0) { } subjects Results:string:<- 18:30-19:00 PM
+ array(0) { } array(0) { } subjects Results:string:<- 19:00-19:30 PM
+ array(0) { } array(0) { } subjects Results:string:<- 19:30-20:00 PM
+ array(0) { } array(0) { } subjects Results:string:<- 20:00-20:30 PM
+ array(0) { } array(0) { } subjects Results:string:<- 20:30-21:00 PM
+
+
+
+Return to Calendar
+Childcare sessions available today:
+array(0) { } array(0) { } subjects Results:string:<- 7-9 am
+ array(0) { } array(0) { } subjects Results:string:<- 8-9 am
+ array(0) { } array(0) { } subjects Results:string:<- 3-4 pm
+ array(0) { } array(0) { } subjects Results:string:<- 3-5 pm
+ array(0) { } array(0) { } subjects Results:string:<- 3-6 pm
+The Den Tutoring has these sessions available today:
+array(0) { } array(0) { } subjects Results:string:<- 18:00-18:30 PM
+ array(0) { } array(0) { } subjects Results:string:<- 18:30-19:00 PM
+ array(0) { } array(0) { } subjects Results:string:<- 19:00-19:30 PM
+ array(0) { } array(0) { } subjects Results:string:<- 19:30-20:00 PM
+ array(0) { } array(0) { } subjects Results:string:<- 20:00-20:30 PM
+ array(0) { } array(0) { } subjects Results:string:<- 20:30-21:00 PM
+
+
+
+Return to Calendar

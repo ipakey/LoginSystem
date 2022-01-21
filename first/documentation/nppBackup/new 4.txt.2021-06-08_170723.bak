@@ -1,0 +1,35 @@
+Sessions available for: Wed 23 Jun 2021
+4	array(5) { 
+	[0]=> string(10) "2021-06-23" [1]=> string(6) "3-6 pm" [2]=> string(9) "Childcare" [3]=> int(4) [4]=> string(1) "N" } 
+4	array(5) { 
+	[0]=> string(10) "2021-06-23" [1]=> string(6) "3-6 pm" [2]=> string(9) "Childcare" [3]=> int(4) [4]=> string(1) "N" } 
+4	array(5) { 
+	[0]=> string(10) "2021-06-23" [1]=> string(6) "3-6 pm" [2]=> string(9) "Childcare" [3]=> int(4) [4]=> string(1) "N" } 4array(5) { [0]=> string(10) "2021-06-23" [1]=> string(6) "3-6 pm" [2]=> string(9) "Childcare" [3]=> int(4) [4]=> string(1) "N" } 
+2	array(5) { 
+	[0]=> string(10) "2021-06-23" [1]=> string(17) "19:30PM - 20:00PM" [2]=> string(9) "Chemistry" [3]=> int(2) [4]=> string(1) "N" }
+2	array(5) { 
+	[0]=> string(10) "2021-06-23" [1]=> string(17) "19:30PM - 20:00PM" [2]=> string(9) "Chemistry" [3]=> int(2) [4]=> string(1) "N" }
+1	array(5) { 
+	[0]=> string(10) "2021-06-23" [1]=> string(6) "7-9 am" [2]=> string(9) "Childcare" [3]=> int(1) [4]=> string(1) "N" } 
+1	array(5) { 
+	[0]=> string(10) "2021-06-23" [1]=> string(6) "8-9 am" [2]=> string(9) "Childcare" [3]=> int(1) [4]=> string(1) "N" } 
+	
+	
+array(0) { } array(0) { } subjects Results:string:<-
+Childcare sessions available today:
+array(0) { } array(0) { } subjects Results:string:<- 7-9 am
+ array(0) { } array(0) { } subjects Results:string:<- 8-9 am
+ array(0) { } array(0) { } subjects Results:string:<- 3-4 pm
+ array(0) { } array(0) { } subjects Results:string:<- 3-5 pm
+ array(0) { } array(0) { } subjects Results:string:<- 3-6 pm
+The Den Tutoring has these sessions available today:
+array(0) { } array(0) { } subjects Results:string:<- 18:00-18:30 PM
+ array(0) { } array(0) { } subjects Results:string:<- 18:30-19:00 PM
+ array(0) { } array(0) { } subjects Results:string:<- 19:00-19:30 PM
+ array(0) { } array(0) { } subjects Results:string:<- 19:30-20:00 PM
+ array(0) { } array(0) { } subjects Results:string:<- 20:00-20:30 PM
+ array(0) { } array(0) { } subjects Results:string:<- 20:30-21:00 PM
+
+
+
+Return to Calendar

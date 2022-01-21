@@ -1,0 +1,296 @@
+Sessions available for: Wed 23 Jun 2021
+array(7) { 
+	["3-6 pm"]=> int(4) ["19:30-20:00 PM"]=> int(2) ["18:30-19:00 PM"]=> int(1) ["7-9 am"]=> int(2) ["8-9 am"]=> int(1) ["18:00-18:30 PM"]=> int(1) ["20:00-20:30 PM"]=> int(1) 
+}
+
+
+Childcare sessions available today:
+
+
+array(7) { 
+	["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) 
+} $book 
+open Childcare - 
+3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - 
+
+
+array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } $book open Childcare - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } $book open Childcare - 18:30-19:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } $book open Childcare - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } $book open Childcare - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open Childcare - 8-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open Childcare - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open Childcare - 18:00-18:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open Childcare - 20:00-20:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - slotstatus 7-9 am
+ array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } $book open Childcare - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } $book open Childcare - 18:30-19:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } $book open Childcare - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } $book open Childcare - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open Childcare - 8-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open Childcare - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open Childcare - 18:00-18:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open Childcare - 20:00-20:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - slotstatus 8-9 am
+ array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } $book open - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } $book open - 18:30-19:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } $book open - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } $book open - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open - 8-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open - 18:00-18:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open - 20:00-20:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - slotstatus 3-4 pm
+ array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } $book open - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } $book open - 18:30-19:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } $book open - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } $book open - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open - 8-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open - 18:00-18:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open - 20:00-20:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - slotstatus 3-5 pm
+ array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } $book open Childcare - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } $book open Childcare - 18:30-19:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } $book open Childcare - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } $book open Childcare - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open Childcare - 8-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open Childcare - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open Childcare - 18:00-18:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open Childcare - 20:00-20:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - slotstatus 3-6 pm
+The Den Tutoring has these sessions available today:
+array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } $book open Childcare - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } $book open Childcare - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } $book open Childcare - 18:30-19:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } $book open Childcare - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } $book open Childcare - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open Childcare - 8-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open Childcare - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open Childcare - 18:00-18:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open Childcare - 20:00-20:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Childcare - slotstatus 18:00-18:30 PM
+ array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) } $book open Reading - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Reading - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } $book open Reading - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Reading - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } $book open Reading - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Reading - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } $book open Reading - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Reading - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } $book open Reading - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Reading - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } $book open Reading - 18:30-19:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Reading - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } $book open Reading - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Reading - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } $book open Reading - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Reading - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open Reading - 8-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Reading - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open Reading - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Reading - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open Reading - 18:00-18:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Reading - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open Reading - 20:00-20:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Reading - slotstatus 18:30-19:00 PM
+ array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } $book open - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } $book open - 18:30-19:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } $book open - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } $book open - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open - 8-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open - 18:00-18:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open - 20:00-20:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - slotstatus 19:00-19:30 PM
+ array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) } $book open Chemistry - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Chemistry - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } $book open Chemistry - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Chemistry - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } $book open Chemistry - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Chemistry - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } $book open Chemistry - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Chemistry - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } $book open Chemistry - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Chemistry - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } $book open Chemistry - 18:30-19:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Chemistry - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } $book open Chemistry - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Chemistry - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } $book open Chemistry - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Chemistry - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open Chemistry - 8-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Chemistry - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open Chemistry - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Chemistry - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open Chemistry - 18:00-18:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Chemistry - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open Chemistry - 20:00-20:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open Chemistry - slotstatus 19:30-20:00 PM
+ array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) } $book open CombinedScience - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open CombinedScience - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } $book open CombinedScience - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open CombinedScience - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } $book open CombinedScience - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open CombinedScience - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } $book open CombinedScience - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open CombinedScience - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } $book open CombinedScience - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open CombinedScience - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } $book open CombinedScience - 18:30-19:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open CombinedScience - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } $book open CombinedScience - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open CombinedScience - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } $book open CombinedScience - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open CombinedScience - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open CombinedScience - 8-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open CombinedScience - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open CombinedScience - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open CombinedScience - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open CombinedScience - 18:00-18:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open CombinedScience - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open CombinedScience - 20:00-20:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open CombinedScience - slotstatus 20:00-20:30 PM
+ array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } $book open - 3-6 pm tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } $book open - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } $book open - 18:30-19:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } $book open - 19:30-20:00 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } $book open - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open - 8-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open - 7-9 am tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } $book open - 18:00-18:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } $book open - 20:00-20:30 PM tsa
+Warning: Undefined variable $type in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362
+open - slotstatus 20:30-21:00 PM
+
+
+
+Return to Calendar

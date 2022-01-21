@@ -1,0 +1,16 @@
+This Week One month Ahead All Records Select You have selected : wk
+
+array(8) { 
+	[0]=> string(10) "2021-07-08" 
+	[1]=> string(10) "2021-07-09" 
+	[2]=> string(10) "2021-07-10" 
+	[3]=> string(10) "2021-07-11" 
+	[4]=> string(10) "2021-07-12" 
+	[5]=> string(10) "2021-07-13" 
+	[6]=> string(10) "2021-07-14" 
+	[7]=> string(10) "2021-07-15" 
+} $dates 
+
+2021-07-08
+2021-07-09
+string(10) "2021-07-08" $sNEDATE at line 615

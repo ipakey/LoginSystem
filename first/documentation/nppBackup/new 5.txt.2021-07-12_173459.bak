@@ -1,0 +1,78 @@
+array(8) { 
+	[0]=> string(10) "2021-07-12" 
+	[1]=> string(10) "2021-07-13" 
+	[2]=> string(10) "2021-07-14" 
+	[3]=> string(10) "2021-07-15" 
+	[4]=> string(10) "2021-07-16" 
+	[5]=> string(10) "2021-07-17" 
+	[6]=> string(10) "2021-07-18" 
+	[7]=> string(10) "2021-07-19" 
+} $dates 2021-07-12
+
+string(10) "2021-07-12" $date 243
+array(0) { } bkdCounts 
+array(0) { } Booked slots: L266 
+array(0) { } rBkd at L626 
+array(0) { } $bkd L630 
+array(0) { } 2021-07-13
+
+
+string(10) "2021-07-13" $date 243
+array(0) { } bkdCounts 
+array(0) { } Booked slots: L266 
+array(0) { } rBkd at L626
+array(0) { } $bkd L630 
+array(0) { } 2021-07-14
+
+
+string(10) "2021-07-14" $date 243
+array(0) { } bkdCounts 
+array(0) { } Booked slots: L266 
+array(0) { } rBkd at L626 
+array(0) { } $bkd L630 
+array(0) { } 2021-07-15
+
+
+string(10) "2021-07-15" $date 243
+array(0) { } bkdCounts 
+array(0) { } Booked slots: L266 
+array(0) { } rBkd at L626 
+array(0) { } $bkd L630 
+array(0) { } 2021-07-16
+
+
+string(10) "2021-07-16" $date 243
+array(0) { } bkdCounts 
+array(0) { } Booked slots: L266 
+array(0) { } rBkd at L626 
+array(0) { } $bkd L630 
+array(0) { } 2021-07-17
+string(10) "2021-07-17" $date 243
+array(0) { } bkdCounts 
+array(0) { } Booked slots: L266 
+rray(0) { } rBkd at L626 
+array(0) { } $bkd L630 
+array(0) { } 2021-07-18
+string(10) "2021-07-18" $date 243
+array(0) { } bkdCounts 
+array(0) { } Booked slots: L266 
+array(0) { } rBkd at L626 array(0) { } $bkd L630 
+array(0) { } 2021-07-19
+string(10) "2021-07-19" $date 243
+array(0) { } bkdCounts 
+array(0) { } Booked slots: L266 
+array(0) { } rBkd at L626 
+array(0) { } $bkd L630 
+array(0) { } 
+array(8) { 
+	[0]=> array(0) { } 
+	[1]=> array(0) { } 
+	[2]=> array(0) { } 
+	[3]=> array(0) { } 
+	[4]=> array(0) { } 
+	[5]=> array(0) { } 
+	[6]=> array(0) { } 
+	[7]=> array(0) { } 
+} $bkd at end of findBookings
+
+Warning: Undefined variable $dateRange in C:\xampp\htdocs\TheDen\contentPrivate\bookingsReview.php on line 61

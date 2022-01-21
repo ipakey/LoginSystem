@@ -1,0 +1,85 @@
+/* use files */
+@use 'colors';
+@use 'mixins';
+@use 'fonts';
+
+/* local variables*/
+$text: colors.$text-color;
+$background: colors.$body-bg;
+$accent-txt: colors.$body-bg;
+$accent-bg: colors.$text-color;
+$link-txt: colors.$warning;
+$border: colors.$border;
+
+
+
+.wrapper{
+    display: flex;
+  //   flex-flow: column wrap;
+}
+
+
+.form__log-in-form{
+    width: 75%;
+    @include mixins.flexSpaced;
+    flex-direction: column;
+    color: $text;
+    background-color: $accent-bg;
+    margin: auto;
+    padding: .4rem;
+    border: solid $text;
+    border-radius: 25px 25px 25px 0; /* This line was updated */
+
+}
+
+.form__field{
+    width: 95%;
+    @include mixins.flexSpaced;
+    flex-direction: row;
+    color: $text;
+    background-color: $accent-bg;
+    margin: auto;
+    padding: .4rem;
+}
+
+.form__btn-grp{
+    flex-direction: row;
+    padding: .5rem 2.5rem;
+    @include mixins.flexSpaced;
+    font-family: fonts.$BS;
+    border-radius: 1.5em;
+    margin: auto;
+}
+
+.form__log-in-txt{
+    @include mixins.flexCenter;
+    font-family: fonts.$BS;
+    padding: .2rem 1.5rem;
+    font-size: 0.6rem;
+    color: $text;
+    background-color: transparent;
+    width: 90%;
+    border-radius: 0.4rem;
+    border: ridge;
+}
+
+.form__log-in-msg{
+    @include mixins.flexCenter;
+    font-family: fonts.$BS;
+    padding: 2px 10px;
+    font-size: .6rem;
+    color: $accent-txt;
+    margin-left: 5px;
+    background-color: transparent;
+    border: none;
+}
+
+.right-justify{
+    margin-right: 0;
+}
+
+.empty{
+    color: $background;
+    font-size: 1rem;
+    content: "";
+}

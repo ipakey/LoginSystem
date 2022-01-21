@@ -1,0 +1,54 @@
+/* use files */
+@use 'colors';
+@use 'mixins';
+@use 'fonts';
+
+/* local variables*/
+$text: colors.$header-color;
+$background: colors.$header-bg;
+$accent-txt: colors.$text-color;
+$accent-bg: colors.$body-bg;
+$link-txt: colors.$logIn-bg;
+
+
+
+/* Classes   */
+
+.page-header{
+    display: flex;
+    flex-direction: row;
+    background-color: $background;
+    border: $accent-txt;
+    @include mixins.flexCenter;
+}
+
+page-header div:nth-of-type(1) {flex-grow: 1;}
+page-header div:nth-of-type(2) {flex-grow: 1;}
+page-header div:nth-of-type(3) {flex-grow: 6;}
+page-header div:nth-of-type(4) {flex-grow: 1;}
+page-header div:nth-of-type(5) {flex-grow: 3;}
+
+
+.header__logo-picture{
+    width: 150px;   
+    height: 150px;
+    background-color: $background;
+}
+
+.header__BS{
+    font-family: fonts.$BS;
+    font-size: 1.6rem;
+    color: $text;
+    background-color: $background;
+    @include mixins.flexCenter;
+}
+
+.header__Cz{
+    font-family: fonts.$Cz;
+
+    color: $text;
+    background-color: $background;
+    @include mixins.flexCenter;
+}
+
+

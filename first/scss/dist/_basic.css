@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@1,100&family=Bad+Script&family=Cinzel+Decorative&family=Farsan&display=swap");
+/*colour variables */
+/* use files */
+/* local variables*/
+/* screen sizing */
+/* div formatting */
+/* Buttons */
+@media (min-width: 40em) {
+  .split {
+    display: flex;
+    gap: 2em;
+  }
+}
+/* use files */
+/* local variables*/
+/* Reset Page*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Main html objects */
+html {
+  font-size: 24px;
+}
+
+body {
+  width: 100%;
+  background-color: #121270;
+}
+
+/* main */
+p {
+  font-family: "Bad Script", cursive;
+  color: #fffacd;
+}
+
+h2 {
+  font-family: "Bad Script", cursive;
+  color: #fffacd;
+  font-size: 1.2rem;
+}
+
+li {
+  font-family: "Bad Script", cursive;
+  color: #eee01a;
+  font-size: 0.7rem;
+  width: 15%;
+  margin: 2.5%;
+  text-decoration: none;
+}
+
+ul {
+  width: 80%;
+  background-color: #121270;
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  overflow: auto;
+}

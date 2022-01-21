@@ -1,0 +1,106 @@
+<?php	
+	function countGrpBookings($booked){
+		foreach($booked as $book){
+			echo var_dump($book).' book ';
+			$ta = 0;
+			$cnt = array();
+			$slot = array_column($book, 'bk_timeslot');
+			$uslot = array_unique($slot);
+			foreach($uslot as $ua){
+				if($ua == $booked['bk_timeslot']){
+					$ta++;
+				}
+				echo $ua.' $ua'.$ta.' $ta';
+			}
+		}
+		
+		
+		
+		array_push($uslot, $cnt);
+		
+echo var_dump($slot).' slot '.var_dump($uslot).' uslot';
+		$count = array_count_values($slot);
+echo var_dump($count).' $count'.var_dump($cnt).'  $cnt';
+		return $count;
+	}
+	
+	
+	function checkTimeSlot($ts, $booked, $count, $inds, $groups, $subject){
+//echo var_dump($count).' count '.$ts.' $ts '.var_dump($booked).' $booked '.var_dump($inds).' $inds '.var_dump($groups).' $groups '.var_dump($subject).' $subject';
+		$bka = 0;
+		$i =0;
+		$ts='';
+		$string = '';
+		$len = count($count);
+		for($i=0;$i<=$len;$i++){
+			$ts = $count[$i];
+			$bk = $count['$ts'];
+			echo $ts.$bk;
+		}
+		
+	
+	}
+	
+	function CheckSlotPreBookings($ts, $count){
+		
+		$bk = 0;
+		echo $ts.' ts ';
+		
+		//echo var_dump($book).' book ';
+		if(in_array($ts, $count, true)== true){
+			
+			$bk = $count[$ts];
+		}
+		else{
+			$bk = 'a';
+		}
+		
+		echo $bk.'  $bk  ';
+		return $bk;
+	}
+	
+	function checkIfMoreBookingPossible($ts, $book, $booked, $subject){
+		$len = 0;
+		$string = '';
+		$type = $book['bk_group'];
+		echo $type;
+		$tsa = $book['bk_timeslot'];
+		echo $tsa.'  tsa ';
+		
+		if($type == 'Grp' && $ts == $tsa ){
+			$len = count($booked);
+			$string = 'Group ('.$len.') '.$subject;
+		}
+		else{
+			if($type == 'Ind'){
+				$string = 'booked';
+			}
+		}
+		echo $string;
+		return $string;
+	}
+
+
+	function compileDisplayString($ts, $subject, $count, $type){
+			if($type == null){
+				
+			}
+			if($type == 'Ind'){
+				$slotStatus = 'booked';
+				echo $slotStatus.' '.$subject.' - ';
+			}
+			
+				
+			if($type == 'Grp'){
+				echo $count;
+				$slotStatus = 'group ('.$count. '): '.$subject; 
+				echo $slotStatus.' '.$subject.' - ';
+			}
+			else{
+				$slotStatus = "open";	
+				echo $slotStatus.' '.$subject.' - ';
+			
+			}
+		//echo $slotStatus.'slotStatus Results:String:<- ';	
+			return $slotStatus;			
+	}

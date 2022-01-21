@@ -1,0 +1,10 @@
+Sessions available for: Wed 23 Jun 2021
+Childcare sessions available today:
+
+array(7) { 
+	["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) 
+} Book 	Grp Type 
+	
+array(7) { 
+	["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) 
+} Book Grp Type slotstatus 

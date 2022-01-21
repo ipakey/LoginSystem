@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@1,100&family=Bad+Script&family=Cinzel+Decorative&family=Farsan&display=swap");
+/*colour variables */
+/* use files */
+/* local variables*/
+/* screen sizing */
+/* div formatting */
+/* Buttons */
+@media (min-width: 40em) {
+  .split {
+    display: flex;
+    gap: 2em;
+  }
+}
+/* use files */
+/* local variables*/
+.wrapper {
+  display: flex;
+}
+
+.form__log-in-form {
+  width: 75%;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  flex-direction: column;
+  color: #fffacd;
+  background-color: #fffacd;
+  margin: auto;
+  padding: 0.4rem;
+  border: solid #fffacd;
+  border-radius: 25px 25px 25px 0;
+  /* This line was updated */
+}
+
+.form__field {
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  flex-direction: row;
+  color: #fffacd;
+  background-color: #fffacd;
+  margin: auto;
+  padding: 0.4rem;
+}
+
+.form__btn-grp {
+  flex-direction: row;
+  padding: 0.5rem 2.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  font-family: "Bad Script", cursive;
+  border-radius: 1.5em;
+  margin: auto;
+}
+
+.form__log-in-txt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 0.2rem;
+  font-family: "Bad Script", cursive;
+  padding: 0.2rem 1.5rem;
+  font-size: 0.6rem;
+  color: #fffacd;
+  background-color: transparent;
+  width: 90%;
+  border-radius: 0.4rem;
+  border: ridge;
+}
+
+.form__log-in-msg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 0.2rem;
+  font-family: "Bad Script", cursive;
+  padding: 2px 10px;
+  font-size: 0.6rem;
+  color: #121270;
+  margin-left: 5px;
+  background-color: transparent;
+  border: none;
+}
+
+.right-justify {
+  margin-right: 0;
+}
+
+.empty {
+  color: #121270;
+  font-size: 1rem;
+  content: "";
+}

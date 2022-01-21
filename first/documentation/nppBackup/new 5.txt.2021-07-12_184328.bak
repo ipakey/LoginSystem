@@ -1,0 +1,35 @@
+[4]=> array(13) { 
+	[0]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(5) "3-4pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Biology" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(6) "Yvonne" ["cu_id"]=> int(1) [0]=> int(2) } 
+	[1]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(5) "8-9am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) [0]=> int(2) } 
+	[2]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "7-7:30pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Physics" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) [0]=> int(2) } 
+	[3]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "6:30-7pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(22) "BusinessAdministration" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(3) [0]=> int(6) } 
+	[4]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "6:30-7pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(22) "BusinessAdministration" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(3) [0]=> int(6) } 
+	[5]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "6:30-7pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(22) "BusinessAdministration" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(3) [0]=> int(6) } 
+	[6]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(5) "3-4pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Biology" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(6) "Yvonne" ["cu_id"]=> int(1) [0]=> int(2) } 
+	[7]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(5) "8-9am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) [0]=> int(2) } 
+	[8]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "7-7:30pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Physics" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) [0]=> int(2) } 
+	[9]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "6:30-7pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(22) "BusinessAdministration" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(3) [0]=> int(6) } 
+	[10]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "6:30-7pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(22) "BusinessAdministration" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(3) [0]=> int(6) } 
+	[11]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "6:30-7pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(22) "BusinessAdministration" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(3) [0]=> int(6) } 
+	[12]=> array(12) { 
+		[0]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(5) "3-4pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Biology" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(6) "Yvonne" ["cu_id"]=> int(1) [0]=> int(2) } 
+		[1]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(5) "8-9am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) [0]=> int(2) } 
+		[2]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "7-7:30pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Physics" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) [0]=> int(2) } 
+		[3]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "6:30-7pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(22) "BusinessAdministration" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(3) [0]=> int(6) } 
+		[4]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "6:30-7pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(22) "BusinessAdministration" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(3) [0]=> int(6) } 
+		[5]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "6:30-7pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(22) "BusinessAdministration" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(3) [0]=> int(6) } 
+		[6]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(5) "3-4pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Biology" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(6) "Yvonne" ["cu_id"]=> int(1) [0]=> int(2) } 
+		[7]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(5) "8-9am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) [0]=> int(2) } 
+		[8]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "7-7:30pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Physics" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) [0]=> int(2) } 
+		[9]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "6:30-7pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(22) "BusinessAdministration" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(3) [0]=> int(6) } 
+		[10]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "6:30-7pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(22) "BusinessAdministration" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(3) [0]=> int(6) } 
+		[11]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(8) "6:30-7pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(22) "BusinessAdministration" ["bk_date"]=> string(10) "2021-07-16" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(3) [0]=> int(6) } 
+	} 
+} 
+
+
+[5]=> array(0) { } 
+[6]=> array(0) { } 
+[7]=> array(0) { } 
+
+} $bkd at end of findBookings

@@ -1,0 +1,1134 @@
+
+/* ****************This section regards the Page Settings ***************/
+
+* {
+	boxs-sizing: border-box;
+}
+
+.html {
+	min-height: 250vh;
+	cursor: url(assets/cursors/bluePoint.cur), auto;
+}
+
+body {
+	background: #25542b;
+}
+
+
+
+p {
+	display: inline-block;
+	font-colour: #25542b;
+	
+}
+
+a {font-colour: #25542b;
+	padding: 16px 16px;
+	
+}
+
+h2 {
+	font-colour: #25542b;
+	display: block;
+	margin-block-start: 0.0em;
+	margin-block-end: 0.0em;
+	margin-inline-start: 1px;
+	margin-inline-end: 1px;
+	font-weight: bold;
+}
+
+label {
+	padding: 10px 15px;
+}
+form{
+	min-width: 5%;
+	display: inline-block;
+}
+
+
+
+/* ****************This section regards the Page Text Settings ***************/
+
+@font-face{
+	font-family: 'Scripted';
+	src: url(../assets/fonts/BadScript-Regular.ttf);
+}
+@font-face{
+	font-family: 'Cinzel';
+	src: url(../assets/fonts/CinzelDecorative-Regular.ttf);
+}
+@font-face{
+	font-family: 'Alegre';
+	src: url(../assets/fonts/AlegreyaSans-Regular.ttf);
+}
+
+/* ************** Headings ************************************************/
+
+.mySlides{
+	display: none;
+}
+
+.pageText {
+	font-family: Scripted;
+	line-height: 1.5;
+	color: LemonChiffon;
+	text-align: left;
+	text-decoration: none;
+	vertical-align: middle;
+	font-size: 18px;
+	line-height: 35px;
+	padding: 5px 15px;
+}
+
+.aside{
+	font-family: Scripted;
+	line-height: 1.5;
+	color: LemonChiffon;
+	text-align: left;
+	text-decoration: none;
+	vertical-align: middle;
+	font-size: 14px;
+	line-height: 35px;
+	padding: 5px 15px;
+	
+}
+.headerText {
+	font-family: Scripted;
+	line-height: 1.5;
+	font-color: #25542b;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+	font-size: 30px;
+	line-height: 40px;
+}
+
+.formHeaderText {
+	min-width:80%;
+	font-family: Scripted;
+	line-height: 1.5;
+	font-color: LemonChiffon;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+	margin: 18px;
+	font-size: 28px;
+	line-height: 40px;
+}
+
+.formTextItalic {
+	font-family: Cinzel;
+	line-height: 1.5;
+	color: LemonChiffon;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+	padding: 12px;
+	font-size: 20px;
+	line-height: 40px;
+}
+
+.spanTitleCenter {
+	font-family: Cinzel;
+	font-size: 25px;
+	font-style: italic;
+	text-align:center;
+	display:block;
+	top: 19%;
+	margin-right: 5%;
+	margin-left: 5%;
+	/*width: 80%;*/
+	color: LemonChiffon;
+	line-height: 25px;
+	z-index: 25;
+}
+
+.spanFormCenter {
+	font-family: Scripted;
+	font-size: 25px;
+	font-style: italic;
+	text-align:center;
+	
+	flex-flow:row nowrap;
+	
+	margin-right: 5%;
+	margin-left: 5%;
+	
+	color: LemonChiffon;
+	line-height: 25px;
+	z-index: 25;
+}
+
+.subHeaderText {
+	font-family: Cinzel;
+	color: LemonChiffon;
+	text-align: center;
+	text-decoration: none;
+	font-size: 25px;
+	background-color:#25542b;
+	border: 8px ridge LemonChiffon;
+}
+.mottoTextItalic {
+	font-family: Cinzel;
+	line-height: 1.5;
+	color: #25542b;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+	padding: 12px;
+	font-size: 20px;
+	line-height: 40px;
+}
+
+
+/* ****************This section regards the Images Settings ***************/
+
+.denLogo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 200px;
+	width: 180px;
+}
+
+.denImage {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 150px;
+	width: 150px;
+}
+
+.denImageRight {
+	display: inline-block;
+	float: right;
+	margin-left:3%;
+	margin-right: 3%;
+	margin-bottom: 2%;
+	width: 350px;
+	height: 300px;
+	object-fit: center;
+}
+
+.denImageLeft {
+	display: inline-block;
+	float: left;
+	margin-left:3%;
+	margin-right: 3%;
+	margin-bottom: 2%;
+	width: 350px;
+	height: 300px;
+	object-fit: center;
+}
+
+.bgImage {
+	background-image: url(branding/The_Den_logo_2.png);
+	float: right;
+	margin-left:3%;
+	margin-right: 3%;
+	margin-bottom: 2%;
+	width: 350px;
+	height: 300px;
+	object-fit: center;
+	z-index:-5;
+	transparent: 20%;
+	
+}
+.snackBarButton{
+	line-height: 20px; 
+	min-width:160px;
+	min-height: 45px;
+	font-family: Scripted;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 5px 5px;
+	text-align: center;
+	margin: 8px 10px;
+	border: 3px ridge LemonChiffon;
+	color: #25542b;
+	cursor:pointer;
+	/*width: 65%;*/
+	border-radius: 8px;
+	
+}
+
+
+
+/* ****************This section regards the Part Page Settings ***************/
+/* ************This section regards the Header Settings ********/
+
+.header {
+	overflow: hidden;
+	display: block;
+	background-color: LemonChiffon;
+	
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%
+}
+
+.headerRight {
+	display: inline-block;
+	float: right;
+	margin:0px;
+	height:142px;
+	
+}
+
+.headerLeft {
+	display: block;
+	padding-top: 40px;
+	padding-bottom: 32px;
+	float: left;
+	width: 140px;
+	
+}
+
+.headerMid {
+	display: inline-block;
+	column-gap: 10px;
+	text-align: center;
+	width: 550px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+
+.headerMid1 {
+	display: inline-block;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+	width: 10%;
+	
+}
+
+
+/* ************This section regards the Footer Settings ********/
+
+.footer {
+	overflow: hidden;
+	display: flex;
+	background-color: LemonChiffon;
+	min-height: 50px;
+	padding: 5px 5px;
+	align-items: stretch;
+	align-content: flex-end;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	font-family:Alegre;
+	font-size:16px;
+	color: #22542b;
+}
+
+.footerLeft {
+	float: left;
+	width: 40%;
+	margin: auto;
+	text-align: left;
+}
+
+.footerRight {
+	float: right;
+	width: 40%;
+	margin: auto;
+	text-align: right;
+}
+
+.footerText {
+	font-family: Alegre;
+	font-size: 10px;
+	text-decoration: none;
+	font-color: #22542b;
+}
+
+
+
+/* ****************This section regards the Page Positioning Settings ********/
+
+.pageTitle{
+	color: LemonChiffon;
+	font-family: inherit;
+	font-style: italic;
+	font-size: 1.5em;
+	font-weight: normal;
+	text-align: center;
+}
+
+
+.pageBoarder{
+	width: 100%;
+	position: absolute;
+	margin-right: 10%;
+	background-color: #22542b;
+	
+	display: block;
+	float: center;
+	padding: 6px;
+	text-align: left;
+	border-radius: 8px;
+	border-color: LemonChiffon;
+	border-width: 4px;
+	color: #25542b;
+	
+}
+
+.pageContent {
+	top: 28%;
+	position: absolute;
+	align-items: stretch;
+	padding: 6px;
+	margin: 0% 10%;
+	font-family: Farsan;
+	font-size: 20px;
+	display: block;
+	padding: 0px 16px;
+	margin-top: 8%;
+	background-color: #22542b;
+	overflow-y: auto;
+	border: 15px LemonChiffon;
+	z-index: -2px;
+	
+	min-height: 570px;
+	align: center;
+}
+
+/* ************This section regards the Columns Settings *******/
+
+.leftColumn {
+	width: 43%;
+	position: absolute;
+	margin: 0.5% 5%;
+	color: LemonChiffon;
+	font-family: Scripted;
+	word-wrap: normal;
+	display: block;
+	/*float: left;*/
+}
+
+
+.rightColumn {
+	width: 45%;
+	position: absolute;
+	margin: 0.5% 49%;
+	color: LemonChiffon;
+	font-family: Scripted;
+	word-wrap: normal;
+	display: inline-block;
+	align-items: right;
+	/*float: right;*/
+}
+
+.leftColumnReverse {
+	width: 43%;
+	position: absolute;
+	margin: 0.5% 5%;
+	background-color: LemonChiffon;
+	font-family: Scripted;
+	word-wrap: normal;
+	display: block;
+	float: left;
+	padding: 6px;
+	text-align: left;
+	border-radius: 8px;
+	border-color: #22542b;
+	border-width: 2px;
+	color: #25542b;
+}
+
+.rightColumnReverse {
+	width: 23%;
+	/*position: absolute;*/
+	margin: 0.5% 5%;
+	background-color: LemonChiffon;
+	font-family: Scripted;
+	word-wrap: normal;
+	display: inline-block;
+	/*float: right;*/
+	padding: 6px;
+	text-align: right;
+	border-radius: 8px;
+	border-color: #22542b;
+	border-width: 2px;
+	color: #25542b;
+	
+}
+/* ************This section regards the Forms Settings *********/
+/* ********Form Buttons *********/
+
+.button {
+	display: inline-block;
+	background-color:LemonChiffon;
+	font-family: Scripted;
+	colour:#25542b;
+	padding: 25px 20px;
+	margin: 8px 10px;
+	border: 9px ridge #fcec58;
+	cursor:pointer;
+	width: 45%;
+	border-radius: 28px;
+	z-index:20;
+	
+}
+
+.formButton{
+	display: inline-block;
+	background-color: mint;
+	text-decoration: none;
+	font-family: Scripted;
+	colour:#25542b;
+	padding: 5px 10px;
+	float: right;
+	border: 3px ridge LemonChiffon;
+	cursor:pointer;
+	border-radius: 8px;
+	align-items: flex-end;
+}
+
+.formButtonText {
+	padding: auto;
+	font-color: LemonChiffon;
+	font-family: Scripted;
+	font-size: 15px;
+	margin: 3px;
+	width: 120px;
+}
+
+
+/* ********Log In Form *********/
+
+.initalLogIn {
+	margin-block-end: 0em;
+	border: 8px ridge LemonChiffon;
+	justify-content: stretch;
+	float: right;
+	vertical-align: middle;
+	width:375px;
+	display: inline-block;
+	padding: 10px 7px;
+	background-color: #22542b;
+	text-align: left;
+	text-decoration: none;
+	color: LemonChiffon;
+	height:120px;
+	z-index:125;
+	
+}
+
+.logInText {
+	font-family: Scripted;
+	font-size: 25px;
+	margin: 3px;
+	min-width: 120px;
+}
+
+/* ********Input Fields*********/
+
+input[type=text] {
+	width: 35%;
+	padding: 5px 5px;
+	display: inline-block;
+	border: 3px ridge LemonChiffon;
+	border-radius: 8px;
+	
+	font-family: Scripted;
+}
+
+input[type=select] {
+	width: 35%;
+	padding: 5px 5px;
+	display: inline-block;
+	border: 3px ridge LemonChiffon;
+	border-radius: 8px;
+	
+	font-family: Scripted;
+}
+
+input[type=password] {
+	width: 35%;
+	padding: 5px 5px;
+	display: inline-table;
+	border: 3px ridge LemonChiffon;
+	border-radius: 8px;
+	
+	font-family: Scripted;
+	background-color: LemonChiffon;
+}
+
+input[type=submit] {
+	width: 32%;
+	padding: 5px 5px;
+	display: inline-block;
+	border: 3px ridge LemonChiffon;
+	border-radius: 8px;
+	background-color: LemonChiffon;
+	font-family: Scripted;
+	
+}
+
+/* ****This section regards the Input Form Fields Settings *****/
+
+.textAreaForm {
+	width: 75%;
+	padding: 5px 5px;
+	display: block;
+	text-align: center;
+	border-radius: 8px;
+	margin: auto;
+	justify-items: center;
+	font-family: Scripted;
+}
+
+.hidden{
+	display: none;
+}
+
+.formModal {
+	position: relative;
+	top: 7%;
+	width: 50%;
+	
+	background-color: yellow;
+	font-family: Scripted;
+	align-items:center;
+	padding: 16px;
+	margin: 5% 10%;
+
+	z-index: 15;
+	justify-content: center;
+}
+
+.form-inline {
+	display: inline-block;
+	justify: flex-direction;
+	width: 60%;
+	margin-left: 10%;
+	border: 14px;
+	border-color: #25542b;
+	height: 450px;
+}
+
+.formBlock {
+	position: absolute;
+	top: 29%;
+	width: 95%;
+	display: block;
+	font-family: Scripted;
+	align-items: stretch;
+	padding: 6px;
+	margin: 0% 10%;
+	border-radius: 8px;
+	border-color: #25542b;
+	border-width: 2px;
+}
+
+.formBlockCenter {
+	position: relative;
+	vertical-align: top;
+	margin: auto;
+	top: 43%;
+	width: 90%;
+	display: block;
+	font-family: Scripted;
+	background-color: pale yellow;
+	padding: 6px 6px;
+	
+	border: 3px ridge LemonChiffon;
+}
+
+.formTextArea {
+	display: block;
+	justify: flex-direction;
+	vertical-align: top;
+	width: 80%;
+	margin: 5px 10px;
+	border: 14px;
+	border-color: #25542b;
+	height: 200px;
+	background-color: LemonChiffon;
+	border: 3px ridge LemonChiffon;
+	border-radius: 8px;
+	
+}
+
+.formPicture {
+	display: inline-block;
+	border-radius: 8px;
+	padding: 7px 15px;
+	float: right;
+	z-index: 35;
+}
+
+.formContent {
+	display: inline-block;
+	width: 65%;
+	align: center;
+	font-family: Scripted;
+	color:#25542b;
+	
+	margin: 5px 10px;
+	border: 3px ridge LemonChiffon;
+	border-radius: 8px;
+}
+
+.formContentLeft {
+	display: inline-block;
+	font-family: Scripted;
+	align items: left;
+	background-color: LemonChiffon;
+	padding: 6px;
+	margin: 0% 2%;
+	border: 3px ridge #25542b;
+	border-radius: 8px;
+}
+
+.formLinkText {
+	background-color: LemonChiffon;
+	font-family: Scripted;
+	font-size: 15px;
+	margin: 3px;
+	color: blue;
+	border-radius: 8px;
+	border: 2px;
+}
+
+formHeaderText {
+	width: 75%;
+	font-family: Scripted;
+	font-color: #22542b;
+	align-items: stretch;
+	text-decoration: none;
+	padding: 10px 10px;
+	font-size: 40px;
+	line-height: 60px;
+	border-bottom: 15px;
+}
+
+.blobContent {
+	width:900px;
+	height: 100px;
+	text-align: top;
+	overflow-y: auto;
+}
+
+
+/* *********************Navigattion Container *************/
+/* Navbar container */
+.navbar {
+  overflow: hidden;
+  background-color: #22542b;
+  font-family: Scripted;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: LemonChiffon;
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: LemonChiffon;
+  padding: 16px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: navy;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: LemonChiffon;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: #25542b;
+  padding: 7px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: navy;
+  color: LemonChiffon;
+}
+
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+/* *****************************************Bookings Table ***************************************** */
+
+.col-md-12{position:relative;width:100%;min-height:1px;padding-right:15px;padding-left:15px}
+
+.container{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}
+
+.row{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-right:-15px;margin-left:-15px; }
+
+.table-bordered{border:1px solid #dee2e6}.table-bordered td,.table-bordered th{border:1px solid #dee2e6}.table-bordered thead td,.table-bordered thead th{border-bottom-width:2px}.table-striped tbody tr:nth-of-type(odd){background-color:rgba(0,0,0,.05)}.table-hover tbody tr:hover{background-color:rgba(0,0,0,.075)}
+
+.table{width:95%;max-width:95%;margin-bottom:1rem;background-color:transparent; table-layiyt:fixed}.table td,.table th{padding:.75rem;vertical-align:top;border-top:1px solid #dee2e6}.table thead th{vertical-align:bottom;border-bottom:2px solid #dee2e6}.table tbody+tbody{border-top:2px solid #dee2e6}.table .table{background-color:#fff}
+
+
+.btn-primary{color:#fff;background-color:#007bff;border-color:#007bff}
+
+.btn{display:inline-block;font-weight:400;text-align:center;white-space:nowrap;vertical-align:middle;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;border:1px solid transparent;padding:.375rem .75rem;font-size:1rem;line-height:1.5;border-radius:.25rem;}
+
+
+
+.tableHeader{
+	text-align: center;
+	font-size: 12px;
+	font-family: Scripted;
+	color: LemonChiffon;
+	vertical-align:top;
+}
+
+td{
+	width: 12%;
+}
+
+th{
+	text-align: center;
+	font-size: 12px;
+	font-family: Cinzel;
+	color: LemonChiffon;
+	vertical-align:top;
+}
+
+.bookingsButton{
+	line-height: 29px; 
+	display: inline-block;
+	min-width:80px;
+	font-family: Scripted;
+	text-decoration: none;
+	background-color:#25542b;
+	/*padding: 5px 5px;*/
+	text-align: center;
+	border: 3px ridge LemonChiffon;
+	vertical-align: center;	
+	color: LemonChiffon;
+	border-radius: 8px;
+	z-index:50;
+}
+
+
+
+.bookingsPastButton{
+	line-height: 15px; 
+	font-family: Scripted;
+	display: inline-block;
+	
+	color: #c4ac68;
+	padding: 5px 5px;
+	text-align:center;
+	border: 3px ridge #c4ac68;
+	text-decoration: none;
+	cursor:pointer;
+	width: 65%;
+	border-radius: 8px;
+	z-index:50;
+}
+
+.slotsButton{
+	line-height: 20px; 
+	min-width:160px;
+	min-height: 45px;
+	font-family: Scripted;
+	font-size: 15px;
+	text-decoration: none;
+	padding: 5px 5px;
+	text-align: center;
+	margin: 8px 10px;
+	border: 3px ridge LemonChiffon;
+	color: #25542b;
+	cursor:pointer;
+	/*width: 65%;*/
+	border-radius: 8px;
+	z-index:50;
+}
+
+.slotBookedButton{
+	background-color:#40807e;
+	line-height: 20px; 
+	min-width:160px;
+	min-height: 45px;
+	font-family: Scripted;
+	font-size: 15px;
+	text-decoration: none;
+	padding: 5px 5px;
+	text-align:center;
+	margin: 8px 10px;
+	border: 3px ridge LemonChiffon;
+	color: #25542b;	
+	cursor:pointer;
+
+	border-radius: 8px;
+	z-index:50;
+}
+
+
+.bookingsHeaderButton{
+	line-height: 15px; 
+	font-family: Cinzel;
+	display: inline-block;
+	background-color:LemonChiffon;
+	colour:#25542b;
+	padding: 5px 5px;
+	margin: 8px 10px;
+	border: 3px ridge LemonChiffon;
+	text-decoration:none;
+	cursor:pointer;
+	width: 250px;
+	border-radius: 8px;
+	z-index:50;
+}
+
+.today{
+	background-color: yellow;
+	font-size: 12px;
+	font-family: Scripted;
+	color: #25542b;
+	vertical-align:top;
+
+}
+
+.yesterday{
+	font-size: 12px;
+	font-family: Scripted;
+	color: #c4ac68;
+	vertical-align:top;
+}
+
+.future{
+	font-size: 12px;
+	font-family: Scripted;
+	color: LemonChiffon;
+	vertical-align:top;
+	text-decoration: none;
+	
+
+}
+
+
+/**************************************** Flexbox Settings ****************************/
+.flex-container {
+	display: flex;
+  flex-flow:row wrap;
+  margin-bottom:100px;
+  margin-right:10%;
+}
+
+
+.columns{
+	display: flex;
+	flex-flow:column nowrap;
+	text-decoration: none;
+	/*padding: 5px 5px;*/
+	text-align:left;
+	margin: 4px 10px;
+
+}
+
+.rows{
+	display: flex;
+	flex-flow:row nowrap;
+	text-decoration: none;
+	/*padding: 5px 5px;*/
+	text-align:left;
+	margin: 4px 10px;
+
+}
+
+
+/******************************Grid Settings *****************************/
+
+.grid {
+  display: grid;
+  width: 85%;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(2, minmax(100px, auto));
+  align-content:center;
+}
+
+.leftColumn {
+  display: grid;
+  grid-column: 1 / 2;
+  grid-row: 2 / 4;
+  grid-template-columns: subgrid;
+  grid-template-rows: repeat(3, 80px);
+  margins: 25px;
+}
+
+.rightColumn {
+  display: grid;
+  grid-column: 4 / 5;
+  grid-row: 2 / 4;
+  grid-template-columns: subgrid;
+  grid-template-rows: repeat(3, 80px);
+}
+
+.subitem {
+  grid-column: 3 / 6;
+  grid-row: 1 / 3;
+}
+    
+
+
+/*********************Gallery Settings ******************/
+
+.mySlides{
+	width: 250px;
+	height: 200px%;
+}
+
+
+/* ****************************Side Menu Responsive*********************** */
+
+
+
+/* Style tab links */
+.tablink {
+  background-color: LemonChiffon;
+  font-family: Cinzel;
+  color: #25542b;
+  float: left;
+  border: ridge 2px LemonChiffon;
+  border-radius:8px;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 14px;
+  width: 20%;
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: LemonChiffon;
+  font-family: Scripted;
+  display: none;
+  padding: 50px 20px;
+  height: 100%;
+  
+  
+}
+
+
+/******************Snackbar Settings ***************************/
+
+#snackbar {
+  visibility: hidden;
+  min-width: 250px;
+  margin-left: -125px;
+  background-color: #333;
+  color: #fff;
+  text-align: right;
+  border-radius: 2px;
+  padding: 16px;
+  position: fixed;
+  z-index: 1;
+  left: 50%;
+  bottom: 30px;
+  font-size: 17px;
+  z-index:150;
+}
+
+#snackbar.show {
+  visibility: visible;
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+.snackBarButton{
+	line-height: 20px; 
+	min-width:160px;
+	min-height: 45px;
+	font-family: Scripted;
+	font-size: 15px;
+	text-decoration: none;
+	padding: 5px 5px;
+	text-align: right;
+	margin: 8px 10px;
+	border: 3px ridge LemonChiffon;
+	color: #25542b;
+	cursor:pointer;
+	width: 65%;
+	border-radius: 8px;
+	
+}
+
+@-webkit-keyframes fadein {
+  from {bottom: 0; opacity: 0;} 
+  to {bottom: 30px; opacity: 1;}
+}
+
+@keyframes fadein {
+  from {bottom: 0; opacity: 0;}
+  to {bottom: 30px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+  from {bottom: 30px; opacity: 1;} 
+  to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+  from {bottom: 30px; opacity: 1;}
+  to {bottom: 0; opacity: 0;}
+}
+
+
+/* Add media queries for responsivness - when screen is less than 500px wide - Stack Links on top of each other */
+
+@media screen and (max-width: 500px){
+	.header a {
+		float: none;
+		display:block;
+		text-align: center;
+	}
+	.header right{
+		float: none;
+	}
+	.sidenav {padding-top: 15px}
+	.sidenav a {font-size: 18px}
+	
+	.form-inline{
+		flex-direction: column;
+		align-items: stretch;
+	}
+}
+
+

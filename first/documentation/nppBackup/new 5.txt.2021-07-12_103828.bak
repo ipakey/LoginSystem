@@ -1,0 +1,15 @@
+string(10) "2021-07-08" $dates L637
+
+Warning: foreach() argument must be of type array|object, string given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 627
+
+array(0) { } $bkd
+
+
+Fatal error: Uncaught TypeError: array_push(): 
+	Argument #1 ($array) must be of type array, null given in C:\xampp\htdocs\TheDen\includes\functionsBooking.php:607 Stack trace: 
+	
+	#0 C:\xampp\htdocs\TheDen\includes\functionsBooking.php(607): array_push(NULL, Array) 
+	
+	#1 C:\xampp\htdocs\TheDen\contentPrivate\bookingsReview.php(58): findBookingsReport(Array, 22) 
+	
+	#2 {main} thrown in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 607

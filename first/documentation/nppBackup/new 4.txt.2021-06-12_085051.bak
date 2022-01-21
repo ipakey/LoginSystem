@@ -1,0 +1,12 @@
+Sessions available for: Wed 23 Jun 2021
+array(7) { 
+	["3-6 pm"]=> int(4) ["19:30-20:00 PM"]=> int(2) ["18:30-19:00 PM"]=> int(1) ["7-9 am"]=> int(2) ["8-9 am"]=> int(1) ["18:00-18:30 PM"]=> int(1) ["20:00-20:30 PM"]=> int(1) }
+
+Childcare sessions available today:
+
+array(7) { 
+	["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) 
+} $book open Childcare - 3-6 pm tsa
+
+
+Fatal error: Uncaught ArgumentCountError: Too few arguments to function compileDisplayString(), 3 passed in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 362 and exactly 4 expected in C:\xampp\htdocs\TheDen\includes\functionsBooking.php:390 Stack trace: #0 C:\xampp\htdocs\TheDen\includes\functionsBooking.php(362): compileDisplayString('7-9 am', 'Childcare', NULL) #1 C:\xampp\htdocs\TheDen\forms\bookingForm.php(135): checkTimeSlot('7-9 am', Array, NULL, Array, Array, 'Childcare') #2 {main} thrown in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 390

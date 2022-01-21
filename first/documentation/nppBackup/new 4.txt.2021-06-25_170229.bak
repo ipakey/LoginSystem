@@ -1,0 +1,78 @@
+Sessions available for: Wed 23 Jun 2021
+array(7) { [0]=> string(6) "3-6 pm" [4]=> string(14) "19:30-20:00 PM" [5]=> string(14) "18:30-19:00 PM" [7]=> string(6) "7-9 am" [8]=> string(6) "8-9 am" [10]=> string(14) "18:00-18:30 PM" [11]=> string(14) "20:00-20:30 PM" } 3-6 pm sl 3-6 pm sla 1 lts 3-6 pm sl 3-6 pm sla 2 lts 3-6 pm sl 3-6 pm sla 3 lts 3-6 pm sl 3-6 pm sla 4 lts 19:30-20:00 PM sl 19:30-20:00 PM sla 1 lts 19:30-20:00 PM sl 19:30-20:00 PM sla 2 lts 18:30-19:00 PM sl 18:30-19:00 PM sla 1 lts 7-9 am sl 7-9 am sla 1 lts 7-9 am sl 7-9 am sla 2 lts 8-9 am sl 8-9 am sla 1 lts 18:00-18:30 PM sl 18:00-18:30 PM sla 1 lts 20:00-20:30 PM sl 20:00-20:30 PM sla 1 lts 
+
+array(7) { [0]=> array(2) { [0]=> string(6) "3-6 pm" [1]=> int(4) } [1]=> array(2) { [0]=> string(14) "19:30-20:00 PM" [1]=> int(2) } [2]=> array(2) { [0]=> string(14) "18:30-19:00 PM" [1]=> int(1) } [3]=> array(2) { [0]=> string(6) "7-9 am" [1]=> int(2) } [4]=> array(2) { [0]=> string(6) "8-9 am" [1]=> int(1) } [5]=> array(2) { [0]=> string(14) "18:00-18:30 PM" [1]=> int(1) } [6]=> array(2) { [0]=> string(14) "20:00-20:30 PM" [1]=> int(1) } } counter 
+
+array(12) { 
+	[0]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) } 
+	[1]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) } 
+	[2]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) } 
+	[3]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) } 
+	[4]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) } 
+	[5]=> array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) } 
+	[6]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) } 
+	[7]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) } 
+	[8]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } 
+	[9]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } 
+	[10]=> array(7) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) } 
+	[11]=> array(7) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) } 
+} booked 
+
+array(12) { 
+	[0]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) [0]=> int(4) } 
+	[1]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) [0]=> int(4) } 
+	[2]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) [0]=> int(4) } 
+	[3]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) [0]=> int(4) } 
+	[4]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) [0]=> int(2) } 
+	[5]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) [0]=> int(1) } 
+	[6]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) [0]=> int(2) } 
+	[7]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) [0]=> int(2) } 
+	[8]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) [0]=> int(1) } 
+	[9]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) [0]=> int(2) } 
+	[10]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) [0]=> int(1) } 
+	[11]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) [0]=> int(1) } 
+}  bookedA 
+
+array(12) { 
+	[0]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(22) [0]=> int(4) } 
+	[1]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(28) [0]=> int(4) } 
+	[2]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "plesas" ["cu_id"]=> int(27) [0]=> int(4) } 
+	[3]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "3-6 pm" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(4) "frew" ["cu_id"]=> int(55) [0]=> int(4) } 
+	[4]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Andrew Minton" ["cu_id"]=> int(29) [0]=> int(2) } 
+	[5]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "18:30-19:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(7) "Reading" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(13) "Susan Frailty" ["cu_id"]=> int(23) [0]=> int(1) } 
+	[6]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "19:30-20:00 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Chemistry" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(6) "Freddy" ["cu_id"]=> int(21) [0]=> int(2) } 
+	[7]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) [0]=> int(2) } 
+	[8]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "8-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) [0]=> int(1) } 
+	[9]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) [0]=> int(2) } 
+	[10]=> array(8) { ["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(14) "18:00-18:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) [0]=> int(1) } 
+	[11]=> array(8) { ["bk_group"]=> string(3) "Ind" ["bk_timeslot"]=> string(14) "20:00-20:30 PM" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(15) "CombinedScience" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(10) "Yvonne ASL" ["cu_id"]=> int(0) [0]=> int(1) } 
+} Booked slots:
+
+
+Childcare sessions available today:
+Group: Childcare (2)Group: Childcare (2) 7-9 am
+Group: Childcare (2) Group: Childcare (1) 8-9 am
+Group: Childcare (1)
+
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 399
+3-4 pm
+
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 399
+3-5 pm
+ Group: Childcare (4)Group: Childcare (4)Group: Childcare (4)Group: Childcare (4) 3-6 pm
+Group: Childcare (4)
+The Den Tutoring has these sessions available today:
+Group: Childcare (1) 18:00-18:30 PM
+Group: Childcare (1) Booked 18:30-19:00 PM
+Booked
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 399
+19:00-19:30 PM
+ Group: Chemistry (2)Group: Chemistry (2) 19:30-20:00 PM
+Group: Chemistry (2) Booked 20:00-20:30 PM
+Booked
+Warning: Undefined variable $slotStatus in C:\xampp\htdocs\TheDen\includes\functionsBooking.php on line 399
+20:30-21:00 PM
+
+
+
+Return to Calendar

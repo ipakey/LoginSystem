@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@1,100&family=Bad+Script&family=Cinzel+Decorative&family=Farsan&display=swap");
+/*colour variables */
+/* use files */
+/* local variables*/
+/* screen sizing */
+/* div formatting */
+/* Buttons */
+@media (min-width: 40em) {
+  .split {
+    display: flex;
+    gap: 2em;
+  }
+}
+/* use files */
+/* local variables*/
+/* Classes   */
+.page-header {
+  display: flex;
+  flex-direction: row;
+  background-color: #fffacd;
+  border: #fffacd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 0.2rem;
+}
+
+page-header div:nth-of-type(1) {
+  flex-grow: 1;
+}
+
+page-header div:nth-of-type(2) {
+  flex-grow: 1;
+}
+
+page-header div:nth-of-type(3) {
+  flex-grow: 6;
+}
+
+page-header div:nth-of-type(4) {
+  flex-grow: 1;
+}
+
+page-header div:nth-of-type(5) {
+  flex-grow: 3;
+}
+
+.header__logo-picture {
+  width: 150px;
+  height: 150px;
+  background-color: #fffacd;
+}
+
+.header__BS {
+  font-family: "Bad Script", cursive;
+  font-size: 1.6rem;
+  color: #121270;
+  background-color: #fffacd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 0.2rem;
+}
+
+.header__Cz {
+  font-family: "Cinzel Decorative", cursive;
+  color: #121270;
+  background-color: #fffacd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 0.2rem;
+}

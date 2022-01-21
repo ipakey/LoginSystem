@@ -1,0 +1,39 @@
+Sessions available for: Wed 23 Jun 2021
+Childcare sessions available today:
+
+array(7) { 
+	["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(11) "Sara Fenton" ["cu_id"]=> int(0) 
+} Book 	Grp Type 
+	
+array(7) { 
+	["bk_group"]=> string(3) "Grp" ["bk_timeslot"]=> string(6) "7-9 am" ["bk_confirmed"]=> string(1) "N" ["bk_subject"]=> string(9) "Childcare" ["bk_date"]=> string(10) "2021-06-23" ["bk_name"]=> string(5) "Screw" ["cu_id"]=> int(0) 
+} Book Grp Type slotstatus 
+
+
+Grp Type 3-6 pm timeslot 7-9 am ts
+Grp Type 3-6 pm timeslot 7-9 am ts
+Grp Type 3-6 pm timeslot 7-9 am ts
+Grp Type 3-6 pm timeslot 7-9 am ts
+Grp Type 19:30-20:00 PM timeslot 7-9 am ts
+Ind Type 18:30-19:00 PM timeslot 7-9 am ts
+Grp Type 19:30-20:00 PM timeslot 7-9 am ts
+Grp Type 7-9 am timeslot 7-9 am ts
+Grp Type 8-9 am timeslot 7-9 am ts
+Grp Type 7-9 am timeslot 7-9 am ts
+Grp Type 18:00-18:30 PM timeslot 7-9 am ts
+Ind Type 20:00-20:30 PM timeslot 7-9 am ts
+
+
+
+Grp Type 3-6 pm timeslot 18:00-18:30 PM t
+sGrp Type 3-6 pm timeslot 18:00-18:30 PM ts
+Grp Type 3-6 pm timeslot 18:00-18:30 PM ts
+Grp Type 3-6 pm timeslot 18:00-18:30 PM ts
+Grp Type 19:30-20:00 PM timeslot 18:00-18:30 PM ts
+Ind Type 18:30-19:00 PM timeslot 18:00-18:30 PM ts
+Grp Type 19:30-20:00 PM timeslot 18:00-18:30 PM ts
+Grp Type 7-9 am timeslot 18:00-18:30 PM ts
+Grp Type 8-9 am timeslot 18:00-18:30 PM ts
+Grp Type 7-9 am timeslot 18:00-18:30 PM ts
+Grp Type 18:00-18:30 PM timeslot 18:00-18:30 PM ts
+Ind Type 20:00-20:30 PM timeslot 18:00-18:30 PM ts 

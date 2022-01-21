@@ -1,0 +1,67 @@
+/* use files */
+@use 'colors';
+@use 'mixins';
+@use 'fonts';
+
+/* local variables*/
+$text: colors.$text-color;
+$background: colors.$body-bg;
+$accent-txt: colors.$body-bg;
+$accent-bg: colors.$text-color;
+$link-txt: colors.$warning;
+$border: colors.$border;
+
+
+/* Reset Page*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Main html objects */
+html{
+    font-size: 24px;
+}
+
+body{
+    width: 100%;
+    background-color: $background;
+}
+
+
+/* main */
+
+
+p{
+    font-family: fonts.$BS;
+    color: $text;
+}
+
+h2 {
+    font-family: fonts.$BS;
+    color: $text;
+    font-size: 1.2rem;
+  }
+  
+  li {
+    font-family: fonts.$BS;
+    color: $link-txt;
+    font-size: 0.7rem;
+    width: 15%;
+    margin: 2.5%;
+    text-decoration: none;
+  }
+
+  ul {
+      width: 80%;
+      background-color: $border;
+      display: flex;
+      flex-direction: row;
+      margin: 0;
+      overflow: auto;
+  }
+
+
+
+
